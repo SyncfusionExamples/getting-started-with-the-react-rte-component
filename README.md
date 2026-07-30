@@ -1,8 +1,8 @@
 # Getting Started with the React Rich Text Editor Component
 
-A quick start project that demonstrates how to integrate and utilize the Syncfusion [React Rich Text Editor](https://www.syncfusion.com/react-components/react-rich-text-editor?utm_source=github&utm_medium=listing&utm_campaign=react-rich-text-editor-github-samples) component in a React application. This project provides code examples for customizing the toolbar, inserting HTML elements, and extracting formatted HTML content, making it ideal for developers building text editing interfaces.
+A quick start project that demonstrates how to integrate and utilize the Syncfusion [React Rich Text Editor](https://www.syncfusion.com/rich-text-editor-sdk/react-rich-text-editor?utm_source=github&utm_medium=listing&utm_campaign=react-rich-text-editor-github-samples) component in a React application. This project provides code examples for customizing the toolbar, inserting HTML elements, and extracting formatted HTML content, making it ideal for developers building text editing interfaces.
 
-Examples : https://ej2.syncfusion.com/react/demos/#/material/rich-text-editor/tools?utm_source=github&utm_medium=listing&utm_campaign=react-rich-text-editor-github-samples  
+Examples : https://ej2.syncfusion.com/react/demos/?utm_source=github&utm_medium=listing&utm_campaign=react-rich-text-editor-github-samples#/tailwind3/rich-text-editor/tools 
 
 Documentation: https://ej2.syncfusion.com/react/documentation/rich-text-editor/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-rich-text-editor-github-samples  
 
